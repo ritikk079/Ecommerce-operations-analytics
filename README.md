@@ -51,9 +51,11 @@ ecommerce-analytics/
 │   └── 04_payment_methods.sql
 ├── Screenshots/
 │   └── dashboard_overview.png
-├── dashboard.pbix           # Power BI file [File size limit]
+├── dashboard.pbix           # Power BI file
+(see note below )
 └── README.md
 ```
+Note: The Power BI file (dashboard.pbix) exceeds GitHub's 25MB web upload limit and isn't included in this repo. Happy to share it directly on request.
 
 ## How to Reproduce
 
