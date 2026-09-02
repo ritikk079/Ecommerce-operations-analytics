@@ -2,7 +2,7 @@
 
 A SQL + Power BI analysis of a Brazilian e-commerce marketplace (Olist), focused on the kind of operational questions a Data Analyst is actually asked to answer: revenue drivers, delivery performance, customer satisfaction, and payment behavior.
 
-![Dashboard Overview](Screenshots/dashboard_overview.pn)g
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ## Business Problem
 
