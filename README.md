@@ -49,7 +49,7 @@ ecommerce-analytics/
 │   ├── 02_delivery_delay_by_state.sql
 │   ├── 03_review_score_vs_delivery.sql
 │   └── 04_payment_methods.sql
-├── screenshots/
+├── Screenshots/
 │   └── dashboard_overview.png
 ├── dashboard.pbix           # Power BI file
 └── README.md
