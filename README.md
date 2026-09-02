@@ -51,7 +51,7 @@ ecommerce-analytics/
 │   └── 04_payment_methods.sql
 ├── Screenshots/
 │   └── dashboard_overview.png
-├── dashboard.pbix           # Power BI file
+├── dashboard.pbix           # Power BI file [File size limit]
 └── README.md
 ```
 
